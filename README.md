@@ -54,3 +54,9 @@ Add instructor guides, optional group exercises, deeper scenario simulations, ac
 ## Original OSU documentation
 
 The author led development of an OSU PM Resource Center. The original training decks and job aids were **not available** when this public repository was initially authored; module titles and content are new, not claimed to match the historical course. University-owned material should be referenced or adapted only with appropriate authorization.
+
+## Instructor resources and applied learning
+
+The [facilitator guide](instructor/README.md) adds a repeatable workshop structure and discussion prompts. Learners can use the [fictional capstone scenario](examples/capstone-scenario.md) across the entire course and receive feedback from a [ten-dimension assessment rubric](instructor/capstone-rubric.md).
+
+The capstone is a more meaningful measure of applied skill than multiple-choice knowledge checks alone; it remains informal education, not certification.
